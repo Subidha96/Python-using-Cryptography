@@ -44,4 +44,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository }}/python-crypto-app:latest
+          tags: ghcr.io/Subidha96/python-using-cryptography/python-crypto-app:latest
